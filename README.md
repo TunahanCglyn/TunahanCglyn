@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
 <h3 align="center">I'm a Computer programming student in Turkey</h3>
 
-- 👨🏻‍💻 I'm currently working on a telerehab project. **TM-Fizyo**
+- 👨🏻‍💻 I'm currently working on a telerehab project. **T-FizyoM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
