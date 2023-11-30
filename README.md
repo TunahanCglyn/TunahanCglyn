@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
-<h3 align="center">I'm a software engineering student in Turkey</h3>
+<h3 align="center">I'm a Computer programming student in Turkey</h3>
 
 - 👨🏻‍💻 I'm currently working on a telerehab project. **TM-Fizyo**
 
